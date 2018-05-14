@@ -1,0 +1,12 @@
+# An Exploratory Study on Defense White Papers with an Automated Content Analysis Method. A Case Study on Chinese and U.S. Defense White Papers from 1998-2015 (Abstract)
+
+
+The end of the Cold War had a significant impact on the international security environment by making it more uncertain and complex. Subsequently, main states began to adopt the defense White Paper as a policy tool to be able to cope better with the situation. However, the defense White Paper has not received much scholarly attention and requires computational methods to be analyzed at scale if one would wish to draw insights from multiple documents. The aim of this thesis is to make contributions to the research on defense White Papers and on the use of Automated Content Analysis Methods in security studies. 
+
+The first research question therefore is: how should the study of defense White Papers be approached? I argue that by conducting an exploratory analysis where one determines the ontological and epistemological status of the defense White Paper, one can find suitable analytical criteria to conduct more focused research. 
+
+The second research question is: what can a constructivist-oriented security studies researcher who is interested in norms, values and ideas gain from using algorithmic reading techniques? My argument here is that an algorithmic reading of a text is a more consistent form of pre-interpretation which by itself does not produce any new interpretations of a certain text, but at the same time imposes limitations on what can be interpreted from the text and what the further interpretative possibilities are for the researcher. 
+
+The third research question was concerned with the analytical criteria I ended up selecting: what was the data-generating process (Which institution was the driving force? When was the policy adopted? What is the legal context? What is the purpose of it?) of the Chinese and US defense White Papers; what patterns did the content at a scale exhibit in the documents from 1998 to 2015 and how could these findings inform policy-makers?. 
+
+My final research question was concerned with the similarities and differences between the Chinese and US defense White Papers were according to the findings in the third question. As it turns out they exhibit no similarities at all and differ completely on every dimension.
